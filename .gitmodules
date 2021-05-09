@@ -1,0 +1,9 @@
+[submodule "themes/airspace"]
+	path = themes/airspace
+	url = https://github.com/themefisher/airspace-hugo.git
+[submodule "themes/sugoi"]
+	path = themes/sugoi
+	url = https://github.com/aanupam23/hugo-sugoi.git
+[submodule "themes/wave"]
+	path = themes/wave
+	url = https://github.com/syui/hugo-theme-wave.git
